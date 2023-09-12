@@ -30,9 +30,7 @@ const Focus = ({ addSubject }) => {
 export default Focus;
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
+  container: {},
   button: {
     justifyContent: 'center',
   },
